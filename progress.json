@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T13:43:54.573Z",
+  "generated_at": "2026-11-24T13:43:57.344Z",
   "items": {
     "lab:9ff596ea-672e-4101-9ce4-0856c55b62c9": {
       "kind": "lab",
@@ -50,6 +50,32 @@
       "path": "problems/0016-feature-scaling-implementation",
       "first_solved_at": "2026-02-25T14:31:03.296Z",
       "last_pushed_at": "2026-02-25T14:31:03.296Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:47": {
+      "kind": "problem",
+      "id": "47",
+      "title": "Implement Gradient Descent Variants with MSE Loss",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/47",
+      "path": "problems/0047-implement-gradient-descent-variants-with-mse-loss",
+      "first_solved_at": "2026-03-05T14:19:37.338Z",
+      "last_pushed_at": "2026-03-05T14:19:37.338Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:17": {
+      "kind": "problem",
+      "id": "17",
+      "title": "K-Means Clustering",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/17",
+      "path": "problems/0017-k-means-clustering",
+      "first_solved_at": "2026-03-05T15:19:26.401Z",
+      "last_pushed_at": "2026-03-05T15:19:26.401Z",
       "language": "python",
       "lines": 1
     }
