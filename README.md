@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**7** solved · 6 problems · 1 labs · 0 math
+**11** solved · 10 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,9 +13,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-11-11 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
+| [Create and Inspect a Tensor](https://www.deep-ml.com/problems/1220) | easy | 2026-11-18 | [solution](problems/1220-create-and-inspect-a-tensor) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-02-25 | [solution](problems/0016-feature-scaling-implementation) |
+| [Gradient of a Square with Autograd](https://www.deep-ml.com/problems/1222) | easy | 2026-11-18 | [solution](problems/1222-gradient-of-a-square-with-autograd) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-02-25 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-02-24 | [solution](problems/0014-linear-regression-using-normal-equation) |
+| [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/1221) | easy | 2026-11-18 | [solution](problems/1221-reshape-and-transpose-a-tensor) |
+| [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-11-18 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-03-05 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-03-05 | [solution](problems/0017-k-means-clustering) |
 
