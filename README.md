@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**12** solved · 11 problems · 1 labs · 0 math
+**15** solved · 14 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Create and Inspect a Tensor](https://www.deep-ml.com/problems/1220) | easy | 2026-11-18 | [solution](problems/1220-create-and-inspect-a-tensor) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-02-25 | [solution](problems/0016-feature-scaling-implementation) |
 | [Gradient of a Square with Autograd](https://www.deep-ml.com/problems/1222) | easy | 2026-11-18 | [solution](problems/1222-gradient-of-a-square-with-autograd) |
+| [Implement ReLU and Leaky ReLU](https://www.deep-ml.com/problems/1226) | easy | 2026-11-24 | [solution](problems/1226-implement-relu-and-leaky-relu) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-02-25 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-02-24 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/1221) | easy | 2026-11-18 | [solution](problems/1221-reshape-and-transpose-a-tensor) |
@@ -23,6 +24,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-11-18 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-03-05 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-03-05 | [solution](problems/0017-k-means-clustering) |
+| [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-11-24 | [solution](problems/1227-numerically-stable-softmax) |
+| [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-11-24 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 
 ## Labs
 
