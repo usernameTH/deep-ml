@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T12:18:26.479Z",
+  "generated_at": "2026-11-28T14:13:51.179Z",
   "items": {
     "lab:9ff596ea-672e-4101-9ce4-0856c55b62c9": {
       "kind": "lab",
@@ -206,6 +206,19 @@
       "path": "labs/0015-dimensionality-reduction-with-sklearn",
       "first_solved_at": "2026-11-26T12:18:28.457Z",
       "last_pushed_at": "2026-11-26T12:18:28.457Z",
+      "language": "python",
+      "lines": 55
+    },
+    "lab:3480fd6b-ee7a-4afd-ba4b-5c934aeab10b": {
+      "kind": "lab",
+      "id": "3480fd6b-ee7a-4afd-ba4b-5c934aeab10b",
+      "title": "MLP with Dropout and BatchNorm",
+      "difficulty": "medium",
+      "category": "PyTorch Fundamentals",
+      "url": "https://www.deep-ml.com/labs/3480fd6b-ee7a-4afd-ba4b-5c934aeab10b",
+      "path": "labs/3480fd6b-ee7a-4afd-ba4b-5c934aeab10b-mlp-with-dropout-and-batchnorm",
+      "first_solved_at": "2026-11-28T14:13:51.310Z",
+      "last_pushed_at": "2026-11-28T14:13:51.310Z",
       "language": "python",
       "lines": 55
     }
